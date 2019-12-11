@@ -7,8 +7,10 @@ namespace ConsoleApp2
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-
+<<<<<<< HEAD
             Console.WriteLine("Hello from Radhika To Test!!");
+
+            Console.WriteLine("Hello from ParvinRadhika !!");
 
             Console.WriteLine("Hello from Parvin2 !!");
 
